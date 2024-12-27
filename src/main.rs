@@ -1,3 +1,5 @@
+mod example;
+
 fn main() {
-    println!("Hello, world!");
+    example::run_example();
 }
